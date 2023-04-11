@@ -1,0 +1,64 @@
+/* CSS Document */
+.body{
+background-color: #CC0099;
+font-family: 'Poppins', sans-serif;
+}
+.top-part{
+  display:flex;
+  margin-bottom:80px;
+}
+.half-weight{
+width:50%;
+padding:20px;
+}
+.half-weight img{
+width:100%;
+
+
+}
+.orange-color{
+ color:#CC0099;
+ font-style:normal;
+ }
+ 
+ .link-buttom{
+ text-decoration:none;
+ background-color: #CC99CC;
+ padding:10px 20px;
+ border-radius:5px;
+ color:#FFFFFF;
+ font-family:monospace;
+ 
+ }
+ .experience{
+ display:flex;
+ margin-border:100px;
+ }
+ .experience-item{
+ width:30%;
+ margin-left:3%;
+ margin-bottom:2%;
+ margin-right:3%;
+ box-shadow: 10px 10px 10px grey;
+  border-radius:15px;
+  padding-left:10px;
+  padding-right: 5px;
+
+}
+
+#full{
+border-left:5px solid #CC66FF;
+}
+#mern{
+border-left:5px solid #CC99CC;
+}
+#web{
+border-left:5px solid #CC0099;
+}
+footer p{
+text-align:center;
+color:#990000;
+border-bottom-color:#6600FF;
+margin-bottom:auto;
+font-size:24px;
+}
